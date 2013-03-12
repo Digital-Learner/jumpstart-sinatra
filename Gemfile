@@ -6,3 +6,6 @@ gem 'sinatra-contrib'
 gem 'thin'
 gem 'slim'
 gem 'sass'
+
+gem 'data_mapper'
+gem 'dm-postgres-adapter'
